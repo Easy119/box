@@ -1,1 +1,247 @@
-<mxfile host="app.diagrams.net" modified="2021-05-15T05:58:51.669Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" version="14.6.13" etag="oIdmYDW4_7brLP9BKiU7" type="github"><diagram id="xWEN-G0R6DLI8uqwgf3J">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-05-15T09:44:11.186Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="B7X5Sg1QGvhQffSetz-2" version="14.6.13" type="github" pages="7">
+  <diagram id="xWEN-G0R6DLI8uqwgf3J" name="整体模块">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="YY1d9PeCo5JK0lKlq0iB-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YY1d9PeCo5JK0lKlq0iB-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YY1d9PeCo5JK0lKlq0iB-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YY1d9PeCo5JK0lKlq0iB-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YY1d9PeCo5JK0lKlq0iB-13" value="&#xa;&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;远程手术智能管理系统&lt;/span&gt;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="120" y="160" width="380" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="YY1d9PeCo5JK0lKlq0iB-14" value="术前主从设备关联推荐模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="220" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YY1d9PeCo5JK0lKlq0iB-15" value="术中主从设备匹配模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="220" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YY1d9PeCo5JK0lKlq0iB-16" value="远程手术智能管理系统模块" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="190" y="35" width="260" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="wTdSvYFzW5DChPmZnrTs" name="术前主从设备关联推荐模块">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="a2JMeOBsEPnyYPdS3g-j-0" />
+        <mxCell id="a2JMeOBsEPnyYPdS3g-j-1" parent="a2JMeOBsEPnyYPdS3g-j-0" />
+        <mxCell id="KPZEQshLBlE8kmThlocL-0" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;术前主从设备关联推荐模块&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="a2JMeOBsEPnyYPdS3g-j-1">
+          <mxGeometry x="290" y="30" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KPZEQshLBlE8kmThlocL-1" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;术前主从设备关联推荐模块&lt;/span&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;verticalAlign=top;" vertex="1" parent="a2JMeOBsEPnyYPdS3g-j-1">
+          <mxGeometry x="170" y="110" width="530" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="KPZEQshLBlE8kmThlocL-2" value="&lt;font style=&quot;font-size: 12px&quot;&gt;患者信息采集模块&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="a2JMeOBsEPnyYPdS3g-j-1">
+          <mxGeometry x="190" y="160" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KPZEQshLBlE8kmThlocL-3" value="&lt;span style=&quot;font-size: 12px&quot;&gt;医院手术医生信息采集模块&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="a2JMeOBsEPnyYPdS3g-j-1">
+          <mxGeometry x="340" y="160" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KPZEQshLBlE8kmThlocL-4" value="&lt;span style=&quot;font-size: 12px&quot;&gt;云端数据算法分析推荐模块&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="a2JMeOBsEPnyYPdS3g-j-1">
+          <mxGeometry x="520" y="160" width="160" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="yQX3MMh2RsfUGLg9O4TM" name="患者信息采集模块">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="8jGfzlJqduATOpx5ZVk7-0" />
+        <mxCell id="8jGfzlJqduATOpx5ZVk7-1" parent="8jGfzlJqduATOpx5ZVk7-0" />
+        <mxCell id="8jGfzlJqduATOpx5ZVk7-2" value="患者信息采集模块" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=20;" vertex="1" parent="8jGfzlJqduATOpx5ZVk7-1">
+          <mxGeometry x="140" y="15" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8jGfzlJqduATOpx5ZVk7-3" value="&lt;font style=&quot;font-size: 15px&quot;&gt;患者信息采集&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;verticalAlign=top;" vertex="1" parent="8jGfzlJqduATOpx5ZVk7-1">
+          <mxGeometry x="115" y="120" width="450" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="8jGfzlJqduATOpx5ZVk7-5" value="患者病情信息" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="8jGfzlJqduATOpx5ZVk7-1">
+          <mxGeometry x="150" y="170" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8jGfzlJqduATOpx5ZVk7-6" value="患者所在地域" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="8jGfzlJqduATOpx5ZVk7-1">
+          <mxGeometry x="280" y="170" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8jGfzlJqduATOpx5ZVk7-7" value="手术期望日期" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="8jGfzlJqduATOpx5ZVk7-1">
+          <mxGeometry x="414" y="170" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8jGfzlJqduATOpx5ZVk7-8" value="手术紧急程度" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="8jGfzlJqduATOpx5ZVk7-1">
+          <mxGeometry x="150" y="220" width="120" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="M9-biDW4R7GuaXnoYWmM" name="医院手术医生信息采集模块">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="nkfSb0RMSC-WNWmWODg3-0" />
+        <mxCell id="nkfSb0RMSC-WNWmWODg3-1" parent="nkfSb0RMSC-WNWmWODg3-0" />
+        <mxCell id="nkfSb0RMSC-WNWmWODg3-2" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;医院手术医生信息采集模块&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=20;" vertex="1" parent="nkfSb0RMSC-WNWmWODg3-1">
+          <mxGeometry x="160" y="15" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nkfSb0RMSC-WNWmWODg3-3" value="&lt;span style=&quot;font-size: 14px&quot;&gt;远程手术医院信息采集（保存云端数据库）&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;verticalAlign=top;" vertex="1" parent="nkfSb0RMSC-WNWmWODg3-1">
+          <mxGeometry x="170" y="130" width="500" height="460" as="geometry" />
+        </mxCell>
+        <mxCell id="nkfSb0RMSC-WNWmWODg3-4" value="&lt;font style=&quot;font-size: 12px&quot;&gt;操控端设备信息采集&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;verticalAlign=top;" vertex="1" parent="nkfSb0RMSC-WNWmWODg3-1">
+          <mxGeometry x="180" y="180" width="210" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="nkfSb0RMSC-WNWmWODg3-7" value="&lt;span style=&quot;font-size: 14px&quot;&gt;术式主刀医生时间表&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="nkfSb0RMSC-WNWmWODg3-1">
+          <mxGeometry x="200" y="220" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nkfSb0RMSC-WNWmWODg3-8" value="&lt;span style=&quot;font-size: 14px&quot;&gt;机器人设备时间表&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="nkfSb0RMSC-WNWmWODg3-1">
+          <mxGeometry x="200" y="270" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nkfSb0RMSC-WNWmWODg3-9" value="&lt;span style=&quot;font-size: 14px&quot;&gt;机器人设备安全信息&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="nkfSb0RMSC-WNWmWODg3-1">
+          <mxGeometry x="200" y="320" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nkfSb0RMSC-WNWmWODg3-10" value="&lt;span style=&quot;font-size: 14px&quot;&gt;控制端预警信息评估&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="nkfSb0RMSC-WNWmWODg3-1">
+          <mxGeometry x="200" y="370" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nkfSb0RMSC-WNWmWODg3-20" value="&lt;font style=&quot;font-size: 12px&quot;&gt;受控端设备信息采集&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;verticalAlign=top;" vertex="1" parent="nkfSb0RMSC-WNWmWODg3-1">
+          <mxGeometry x="440" y="180" width="210" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="nkfSb0RMSC-WNWmWODg3-21" value="&lt;span style=&quot;font-size: 14px&quot;&gt;受控端协助医生时间表&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="nkfSb0RMSC-WNWmWODg3-1">
+          <mxGeometry x="460" y="220" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nkfSb0RMSC-WNWmWODg3-22" value="&lt;span style=&quot;font-size: 14px&quot;&gt;机器人零部件可用性信息&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="nkfSb0RMSC-WNWmWODg3-1">
+          <mxGeometry x="460" y="270" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nkfSb0RMSC-WNWmWODg3-23" value="&lt;span style=&quot;font-size: 14px&quot;&gt;机器人耗材可用性信息&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="nkfSb0RMSC-WNWmWODg3-1">
+          <mxGeometry x="460" y="320" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nkfSb0RMSC-WNWmWODg3-24" value="&lt;span style=&quot;font-size: 14px&quot;&gt;受控端预警信息评估&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="nkfSb0RMSC-WNWmWODg3-1">
+          <mxGeometry x="460" y="370" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nkfSb0RMSC-WNWmWODg3-25" value="&lt;span style=&quot;font-size: 14px&quot;&gt;手术跟台人员信息评估&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="nkfSb0RMSC-WNWmWODg3-1">
+          <mxGeometry x="460" y="410" width="170" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="4noGh33M8kpViWZimn-2" name="云端数据算法分析推荐模块">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="XsQ0UfIJPrcHib_5h7tk-0" />
+        <mxCell id="XsQ0UfIJPrcHib_5h7tk-1" parent="XsQ0UfIJPrcHib_5h7tk-0" />
+        <mxCell id="PuoWDFqH6mWx1v1w-s9T-3" value="云端数据算法分析推荐模块" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=20;" vertex="1" parent="XsQ0UfIJPrcHib_5h7tk-1">
+          <mxGeometry x="110" y="30" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XvTXYaxdhDWs1yTejftN-2" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="XsQ0UfIJPrcHib_5h7tk-1" source="PuoWDFqH6mWx1v1w-s9T-4" target="XvTXYaxdhDWs1yTejftN-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PuoWDFqH6mWx1v1w-s9T-4" value="&lt;font style=&quot;font-size: 14px&quot;&gt;获取患者信息&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="XsQ0UfIJPrcHib_5h7tk-1">
+          <mxGeometry x="175" y="110" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="XvTXYaxdhDWs1yTejftN-4" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="XsQ0UfIJPrcHib_5h7tk-1" source="XvTXYaxdhDWs1yTejftN-1" target="XvTXYaxdhDWs1yTejftN-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XvTXYaxdhDWs1yTejftN-1" value="&lt;font style=&quot;font-size: 15px&quot;&gt;机器人云端数据库&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontSize=20;" vertex="1" parent="XsQ0UfIJPrcHib_5h7tk-1">
+          <mxGeometry x="142.5" y="235" width="195" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XvTXYaxdhDWs1yTejftN-3" value="&lt;span style=&quot;font-size: 15px&quot;&gt;推荐最优主从匹配方案的医院&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontSize=20;" vertex="1" parent="XsQ0UfIJPrcHib_5h7tk-1">
+          <mxGeometry x="136.25" y="700" width="207.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uhNr6SzM48DT07GoPzQE-6" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="XsQ0UfIJPrcHib_5h7tk-1" source="uhNr6SzM48DT07GoPzQE-4" target="uhNr6SzM48DT07GoPzQE-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uhNr6SzM48DT07GoPzQE-4" value="算法规则过滤" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;" vertex="1" parent="XsQ0UfIJPrcHib_5h7tk-1">
+          <mxGeometry x="140" y="340" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uhNr6SzM48DT07GoPzQE-5" value="&lt;ol&gt;&lt;li&gt;患者所在地域和从端设备医院地域加权计算&lt;/li&gt;&lt;li&gt;&amp;nbsp;医院手术术式的手术次数加权计算&lt;/li&gt;&lt;li&gt;从端设备医院等级加权计算&lt;/li&gt;&lt;li&gt;手术医生的时间安排&lt;/li&gt;&lt;li&gt;手术医生等级加权计算&lt;/li&gt;&lt;/ol&gt;" style="whiteSpace=wrap;html=1;rounded=0;sketch=0;align=left;verticalAlign=top;" vertex="1" parent="XsQ0UfIJPrcHib_5h7tk-1">
+          <mxGeometry x="460" y="297.5" width="210" height="145" as="geometry" />
+        </mxCell>
+        <mxCell id="uhNr6SzM48DT07GoPzQE-7" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="uhNr6SzM48DT07GoPzQE-8" target="uhNr6SzM48DT07GoPzQE-10" parent="XsQ0UfIJPrcHib_5h7tk-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uhNr6SzM48DT07GoPzQE-8" value="&lt;font style=&quot;font-size: 14px&quot;&gt;获取患者信息&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="XsQ0UfIJPrcHib_5h7tk-1">
+          <mxGeometry x="175" y="110" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="uhNr6SzM48DT07GoPzQE-9" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="uhNr6SzM48DT07GoPzQE-10" parent="XsQ0UfIJPrcHib_5h7tk-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240.0999999999999" y="700" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uhNr6SzM48DT07GoPzQE-10" value="&lt;font style=&quot;font-size: 15px&quot;&gt;机器人云端数据库&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontSize=20;" vertex="1" parent="XsQ0UfIJPrcHib_5h7tk-1">
+          <mxGeometry x="142.5" y="235" width="195" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uhNr6SzM48DT07GoPzQE-11" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="uhNr6SzM48DT07GoPzQE-12" parent="XsQ0UfIJPrcHib_5h7tk-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uhNr6SzM48DT07GoPzQE-12" value="算法规则过滤" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;" vertex="1" parent="XsQ0UfIJPrcHib_5h7tk-1">
+          <mxGeometry x="140" y="340" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uhNr6SzM48DT07GoPzQE-15" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="XsQ0UfIJPrcHib_5h7tk-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="443.5" as="sourcePoint" />
+            <mxPoint x="235" y="561" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="560" y="551" />
+              <mxPoint x="560" y="561" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="yQJV5TwszwvWHh_pTpXp" name="术中主从设备匹配模块">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="Q5I2Mu_ad1cSsUqYAaxN-0" />
+        <mxCell id="Q5I2Mu_ad1cSsUqYAaxN-1" parent="Q5I2Mu_ad1cSsUqYAaxN-0" />
+        <mxCell id="JCyCAa318QgjmZJ_D2QS-0" value="&lt;span style=&quot;font-size: 12px ; text-align: center&quot;&gt;术中主从设备匹配模块&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="Q5I2Mu_ad1cSsUqYAaxN-1">
+          <mxGeometry x="290" y="30" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JCyCAa318QgjmZJ_D2QS-1" value="&lt;span style=&quot;font-size: 12px&quot;&gt;术中主从设备匹配模块&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;verticalAlign=top;" vertex="1" parent="Q5I2Mu_ad1cSsUqYAaxN-1">
+          <mxGeometry x="170" y="110" width="390" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="JCyCAa318QgjmZJ_D2QS-3" value="&lt;span style=&quot;font-size: 12px&quot;&gt;主从设备智能匹配模块&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="Q5I2Mu_ad1cSsUqYAaxN-1">
+          <mxGeometry x="380" y="155" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4Qv9nan4oVcnI43CP0vS-1" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px&quot;&gt;从端设备信息采集模块&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="Q5I2Mu_ad1cSsUqYAaxN-1">
+          <mxGeometry x="190" y="155" width="160" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="RE6Ri9b6plnEfLkUUODP" name="从端设备信息采集">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="wNLyOrBjwRWlAEw7Ygbe-0" />
+        <mxCell id="wNLyOrBjwRWlAEw7Ygbe-1" parent="wNLyOrBjwRWlAEw7Ygbe-0" />
+        <mxCell id="wNLyOrBjwRWlAEw7Ygbe-2" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;align=center;" vertex="1" parent="wNLyOrBjwRWlAEw7Ygbe-1">
+          <mxGeometry x="170" y="160" width="440" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="wNLyOrBjwRWlAEw7Ygbe-3" value="&lt;p style=&quot;margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0in ; text-align: left ; direction: ltr ; unicode-bidi: embed ; word-break: normal&quot;&gt;&lt;span style=&quot;font-size: 18.0pt ; color: black&quot;&gt;从&lt;/span&gt;&lt;span style=&quot;font-size: 18.0pt ; color: black&quot;&gt;端&lt;/span&gt;&lt;span style=&quot;font-size: 18.0pt ; color: black&quot;&gt;设备信息采集&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="wNLyOrBjwRWlAEw7Ygbe-1">
+          <mxGeometry x="260" y="20" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wNLyOrBjwRWlAEw7Ygbe-6" value="从端设备预警信息" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;" vertex="1" parent="wNLyOrBjwRWlAEw7Ygbe-1">
+          <mxGeometry x="200" y="206" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wNLyOrBjwRWlAEw7Ygbe-7" value="从端设备ip地址" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;" vertex="1" parent="wNLyOrBjwRWlAEw7Ygbe-1">
+          <mxGeometry x="341" y="206" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wNLyOrBjwRWlAEw7Ygbe-8" value="手术零部件预警信息" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;" vertex="1" parent="wNLyOrBjwRWlAEw7Ygbe-1">
+          <mxGeometry x="480" y="206" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wNLyOrBjwRWlAEw7Ygbe-9" value="手术耗材预警信息" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;" vertex="1" parent="wNLyOrBjwRWlAEw7Ygbe-1">
+          <mxGeometry x="200" y="266" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wNLyOrBjwRWlAEw7Ygbe-10" value="所在区域网络信息" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;" vertex="1" parent="wNLyOrBjwRWlAEw7Ygbe-1">
+          <mxGeometry x="341" y="266" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EXvOc0Pt960UKZAjUPTY-0" value="从端设备信息采集模块" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;" vertex="1" parent="wNLyOrBjwRWlAEw7Ygbe-1">
+          <mxGeometry x="300" y="170" width="180" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
