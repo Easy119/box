@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-30T09:55:13.127Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="pvQ6Xh3nzDbNirz491xk" version="14.8.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-06-30T09:59:10.553Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="5Dyv4hJfoZsTh0IbR2Jf" version="14.8.2" type="github" pages="3">
   <diagram id="xWEN-G0R6DLI8uqwgf3J" name="整体模块">
     <mxGraphModel dx="1422" dy="762" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -60,7 +60,7 @@
         <mxCell id="eooznRvL8cEL2X8auZ51-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="eooznRvL8cEL2X8auZ51-1" source="eooznRvL8cEL2X8auZ51-2" target="eooznRvL8cEL2X8auZ51-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eooznRvL8cEL2X8auZ51-2" value="手术规划模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="eooznRvL8cEL2X8auZ51-1">
+        <mxCell id="eooznRvL8cEL2X8auZ51-2" value="手术场景规划模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="eooznRvL8cEL2X8auZ51-1">
           <mxGeometry x="198" y="-146" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eooznRvL8cEL2X8auZ51-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="eooznRvL8cEL2X8auZ51-1" source="eooznRvL8cEL2X8auZ51-3" target="eooznRvL8cEL2X8auZ51-17">
@@ -300,6 +300,21 @@
         </mxCell>
         <mxCell id="eooznRvL8cEL2X8auZ51-106" value="智能管理系统" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="eooznRvL8cEL2X8auZ51-1">
           <mxGeometry x="92" y="-1521" width="135" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="eooznRvL8cEL2X8auZ51-114" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;verticalAlign=middle;" edge="1" parent="eooznRvL8cEL2X8auZ51-1" source="eooznRvL8cEL2X8auZ51-109" target="eooznRvL8cEL2X8auZ51-113">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eooznRvL8cEL2X8auZ51-109" value="主端信息采集" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="eooznRvL8cEL2X8auZ51-1">
+          <mxGeometry x="86.5" y="-283" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eooznRvL8cEL2X8auZ51-115" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;verticalAlign=middle;" edge="1" parent="eooznRvL8cEL2X8auZ51-1" source="eooznRvL8cEL2X8auZ51-112" target="eooznRvL8cEL2X8auZ51-113">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eooznRvL8cEL2X8auZ51-112" value="&lt;span&gt;从端信息采集&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="eooznRvL8cEL2X8auZ51-1">
+          <mxGeometry x="278.5" y="-283" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eooznRvL8cEL2X8auZ51-113" value="" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=none;" vertex="1" parent="eooznRvL8cEL2X8auZ51-1">
+          <mxGeometry x="198" y="-146" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
