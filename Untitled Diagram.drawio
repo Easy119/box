@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-30T12:38:26.169Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="XAjEaybA8ozp8bKW4yFn" version="14.8.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-06-30T12:39:08.091Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="LBMHwhFyEXOSd9duO9az" version="14.8.2" type="github" pages="3">
   <diagram id="xWEN-G0R6DLI8uqwgf3J" name="整体模块">
     <mxGraphModel dx="1422" dy="762" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -348,6 +348,18 @@
         </mxCell>
         <mxCell id="eooznRvL8cEL2X8auZ51-127" value="建立主从设备连接" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;" vertex="1" parent="eooznRvL8cEL2X8auZ51-1">
           <mxGeometry x="83" y="2467" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eooznRvL8cEL2X8auZ51-130" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="eooznRvL8cEL2X8auZ51-1" source="eooznRvL8cEL2X8auZ51-129" target="eooznRvL8cEL2X8auZ51-119">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eooznRvL8cEL2X8auZ51-129" value="H1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;" vertex="1" parent="eooznRvL8cEL2X8auZ51-1">
+          <mxGeometry x="-10.5" y="2055" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="eooznRvL8cEL2X8auZ51-132" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="eooznRvL8cEL2X8auZ51-1" source="eooznRvL8cEL2X8auZ51-131" target="eooznRvL8cEL2X8auZ51-121">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eooznRvL8cEL2X8auZ51-131" value="H2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;" vertex="1" parent="eooznRvL8cEL2X8auZ51-1">
+          <mxGeometry x="-10" y="2163" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
