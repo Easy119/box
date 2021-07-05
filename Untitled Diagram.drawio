@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-05T06:39:48.862Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="JXJgyLxtkjvkKJxo_RXV" version="14.8.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-07-05T06:50:06.695Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="47SvZk9gKzyoe_jpq1Xv" version="14.8.3" type="github" pages="3">
   <diagram id="xWEN-G0R6DLI8uqwgf3J" name="整体模块">
     <mxGraphModel dx="1422" dy="762" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -25,26 +25,6 @@
         </mxCell>
         <mxCell id="YY1d9PeCo5JK0lKlq0iB-16" value="远程手术智能管理系统模块" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="190" y="35" width="260" height="30" as="geometry" />
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="yQJV5TwszwvWHh_pTpXp" name="术中主从设备匹配模块">
-    <mxGraphModel dx="1422" dy="762" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
-      <root>
-        <mxCell id="Q5I2Mu_ad1cSsUqYAaxN-0" />
-        <mxCell id="Q5I2Mu_ad1cSsUqYAaxN-1" parent="Q5I2Mu_ad1cSsUqYAaxN-0" />
-        <mxCell id="JCyCAa318QgjmZJ_D2QS-0" value="&lt;span style=&quot;font-size: 12px ; text-align: center&quot;&gt;术中主从设备匹配模块&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=20;" parent="Q5I2Mu_ad1cSsUqYAaxN-1" vertex="1">
-          <mxGeometry x="290" y="30" width="170" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="JCyCAa318QgjmZJ_D2QS-1" value="&lt;span style=&quot;font-size: 12px&quot;&gt;术中主从设备匹配模块&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;verticalAlign=top;" parent="Q5I2Mu_ad1cSsUqYAaxN-1" vertex="1">
-          <mxGeometry x="170" y="110" width="390" height="140" as="geometry" />
-        </mxCell>
-        <mxCell id="JCyCAa318QgjmZJ_D2QS-3" value="&lt;span style=&quot;font-size: 12px&quot;&gt;主从设备智能匹配模块&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="Q5I2Mu_ad1cSsUqYAaxN-1" vertex="1">
-          <mxGeometry x="380" y="155" width="160" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="4Qv9nan4oVcnI43CP0vS-1" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px&quot;&gt;从端设备信息采集模块&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="Q5I2Mu_ad1cSsUqYAaxN-1" vertex="1">
-          <mxGeometry x="190" y="155" width="160" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
