@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-07T12:59:26.421Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="46mGYsnZHwSPHzi3IuhS" version="14.8.3" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2021-07-07T13:01:56.769Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="aw56rJqPPLE-Pj_20qr8" version="14.8.3" type="github" pages="9">
   <diagram id="xWEN-G0R6DLI8uqwgf3J" name="整体模块">
     <mxGraphModel dx="1422" dy="762" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -988,6 +988,42 @@
       <root>
         <mxCell id="O3X1ixkUfucv4UY9UKSm-0" />
         <mxCell id="O3X1ixkUfucv4UY9UKSm-1" parent="O3X1ixkUfucv4UY9UKSm-0" />
+        <mxCell id="yOfZx4x5FCmLUkYhAxDK-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="O3X1ixkUfucv4UY9UKSm-1" source="yOfZx4x5FCmLUkYhAxDK-1" target="yOfZx4x5FCmLUkYhAxDK-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yOfZx4x5FCmLUkYhAxDK-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="O3X1ixkUfucv4UY9UKSm-1">
+          <mxGeometry x="130" y="280" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yOfZx4x5FCmLUkYhAxDK-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="O3X1ixkUfucv4UY9UKSm-1" source="yOfZx4x5FCmLUkYhAxDK-2" target="yOfZx4x5FCmLUkYhAxDK-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yOfZx4x5FCmLUkYhAxDK-2" value="实时上传自己GPS定位信息" style="whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="O3X1ixkUfucv4UY9UKSm-1">
+          <mxGeometry x="350" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yOfZx4x5FCmLUkYhAxDK-4" value="通过移动设备" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="O3X1ixkUfucv4UY9UKSm-1">
+          <mxGeometry x="210" y="280" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yOfZx4x5FCmLUkYhAxDK-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="O3X1ixkUfucv4UY9UKSm-1" source="yOfZx4x5FCmLUkYhAxDK-5" target="yOfZx4x5FCmLUkYhAxDK-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yOfZx4x5FCmLUkYhAxDK-5" value="查询机器人位置信息" style="whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="O3X1ixkUfucv4UY9UKSm-1">
+          <mxGeometry x="550" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yOfZx4x5FCmLUkYhAxDK-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="O3X1ixkUfucv4UY9UKSm-1" source="yOfZx4x5FCmLUkYhAxDK-7" target="yOfZx4x5FCmLUkYhAxDK-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yOfZx4x5FCmLUkYhAxDK-7" value="罗列设备状态" style="whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="O3X1ixkUfucv4UY9UKSm-1">
+          <mxGeometry x="750" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yOfZx4x5FCmLUkYhAxDK-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="O3X1ixkUfucv4UY9UKSm-1" source="yOfZx4x5FCmLUkYhAxDK-9" target="yOfZx4x5FCmLUkYhAxDK-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yOfZx4x5FCmLUkYhAxDK-9" value="机器人位置距离" style="whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="O3X1ixkUfucv4UY9UKSm-1">
+          <mxGeometry x="750" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yOfZx4x5FCmLUkYhAxDK-11" value="机器人工作状态/预计结束时间" style="whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="O3X1ixkUfucv4UY9UKSm-1">
+          <mxGeometry x="950" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
