@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-07T12:50:25.138Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="Qm_4Is1Ym0-KWPpDjJwJ" version="14.8.3" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2021-07-07T12:53:23.373Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="RZXirwDMO5Lb0U5TlUFl" version="14.8.3" type="github" pages="7">
   <diagram id="xWEN-G0R6DLI8uqwgf3J" name="整体模块">
     <mxGraphModel dx="1422" dy="762" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -827,6 +827,46 @@
         </mxCell>
         <mxCell id="pgLoLuuz_oRj4nD2l5ih-30" value="设备使用状态" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="pgLoLuuz_oRj4nD2l5ih-1">
           <mxGeometry x="735" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="0KWI6s-oGa7RSz8fUrpu" name="机器人管理系统">
+    <mxGraphModel dx="1438" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="nqBmzSLR70mb59hriT6Z-0" />
+        <mxCell id="nqBmzSLR70mb59hriT6Z-1" parent="nqBmzSLR70mb59hriT6Z-0" />
+        <mxCell id="nqBmzSLR70mb59hriT6Z-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="nqBmzSLR70mb59hriT6Z-1" source="nqBmzSLR70mb59hriT6Z-3" target="nqBmzSLR70mb59hriT6Z-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nqBmzSLR70mb59hriT6Z-3" value="主端设备" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="nqBmzSLR70mb59hriT6Z-1">
+          <mxGeometry x="180" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nqBmzSLR70mb59hriT6Z-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="nqBmzSLR70mb59hriT6Z-1" source="nqBmzSLR70mb59hriT6Z-4" target="nqBmzSLR70mb59hriT6Z-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nqBmzSLR70mb59hriT6Z-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="nqBmzSLR70mb59hriT6Z-1" source="nqBmzSLR70mb59hriT6Z-4" target="nqBmzSLR70mb59hriT6Z-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="530" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nqBmzSLR70mb59hriT6Z-4" value="机器人使用状态" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="nqBmzSLR70mb59hriT6Z-1">
+          <mxGeometry x="470" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nqBmzSLR70mb59hriT6Z-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="nqBmzSLR70mb59hriT6Z-1" source="nqBmzSLR70mb59hriT6Z-6" target="nqBmzSLR70mb59hriT6Z-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nqBmzSLR70mb59hriT6Z-6" value="出厂注册" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="nqBmzSLR70mb59hriT6Z-1">
+          <mxGeometry x="350" y="190" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="nqBmzSLR70mb59hriT6Z-7" value="&lt;font color=&quot;#ff0000&quot; style=&quot;font-size: 21px&quot;&gt;机器设备信息/mac地址/&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="nqBmzSLR70mb59hriT6Z-1">
+          <mxGeometry x="265" y="90" width="230" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="nqBmzSLR70mb59hriT6Z-9" value="机器人时间安排" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="nqBmzSLR70mb59hriT6Z-1">
+          <mxGeometry x="670" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nqBmzSLR70mb59hriT6Z-15" value="通过手术管理系统时刻更新机器人使用状态" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="nqBmzSLR70mb59hriT6Z-1">
+          <mxGeometry x="500" y="40" width="190" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
