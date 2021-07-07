@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-07T09:19:56.630Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="moEm7ajGwTAObSEujYo-" version="14.8.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-07-07T09:28:10.343Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="dvCzne2S8EOZNzW5-DQI" version="14.8.3" type="github" pages="4">
   <diagram id="xWEN-G0R6DLI8uqwgf3J" name="整体模块">
     <mxGraphModel dx="1422" dy="762" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -602,7 +602,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="4it349_7Jw_Ow8uCM9s3" name="Page-4">
+  <diagram id="4it349_7Jw_Ow8uCM9s3" name="整体结构图">
     <mxGraphModel dx="1422" dy="762" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="Oub87knvsL0947Tf3aFv-0" />
@@ -657,6 +657,30 @@
         </mxCell>
         <mxCell id="Oub87knvsL0947Tf3aFv-17" value="从端医生" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="Oub87knvsL0947Tf3aFv-1">
           <mxGeometry x="1030" y="497.5" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Oub87knvsL0947Tf3aFv-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Oub87knvsL0947Tf3aFv-1">
+          <mxGeometry x="217" y="1057" width="387" height="126" as="geometry" />
+        </mxCell>
+        <mxCell id="Oub87knvsL0947Tf3aFv-20" value="手术管理模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Oub87knvsL0947Tf3aFv-1">
+          <mxGeometry x="261" y="1088" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Oub87knvsL0947Tf3aFv-21" value="智能匹配模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Oub87knvsL0947Tf3aFv-1">
+          <mxGeometry x="434" y="1088" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Oub87knvsL0947Tf3aFv-22" value="手术管理终端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Oub87knvsL0947Tf3aFv-1">
+          <mxGeometry x="106" y="1250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Oub87knvsL0947Tf3aFv-23" value="信息采集移动终端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Oub87knvsL0947Tf3aFv-1">
+          <mxGeometry x="254" y="1252" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Oub87knvsL0947Tf3aFv-24" value="定位移动终端" style="whiteSpace=wrap;html=1;" vertex="1" parent="Oub87knvsL0947Tf3aFv-1">
+          <mxGeometry x="443" y="1251" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Oub87knvsL0947Tf3aFv-25" value="机器人主端设备" style="whiteSpace=wrap;html=1;" vertex="1" parent="Oub87knvsL0947Tf3aFv-1">
+          <mxGeometry x="604" y="1248" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Oub87knvsL0947Tf3aFv-26" value="机器人从端设备" style="whiteSpace=wrap;html=1;" vertex="1" parent="Oub87knvsL0947Tf3aFv-1">
+          <mxGeometry x="785" y="1248" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
