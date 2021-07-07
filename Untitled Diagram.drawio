@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-07T12:59:14.631Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="_i3oXXABWaSJC116jQNh" version="14.8.3" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2021-07-07T12:59:26.421Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="46mGYsnZHwSPHzi3IuhS" version="14.8.3" type="github" pages="9">
   <diagram id="xWEN-G0R6DLI8uqwgf3J" name="整体模块">
     <mxGraphModel dx="1422" dy="762" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -933,11 +933,17 @@
         <mxCell id="JP1a27b1MBW06s8FQmlq-13" value="更新机器人零部件预警信息" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="nqBmzSLR70mb59hriT6Z-1">
           <mxGeometry x="850" y="430" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="G60ft7nvMkQyt995yqJ7-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="nqBmzSLR70mb59hriT6Z-1" source="G60ft7nvMkQyt995yqJ7-0" target="G60ft7nvMkQyt995yqJ7-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="G60ft7nvMkQyt995yqJ7-0" value="上传自身GPS定位信息" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="nqBmzSLR70mb59hriT6Z-1">
           <mxGeometry x="-20" y="190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="G60ft7nvMkQyt995yqJ7-2" value="开机" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="nqBmzSLR70mb59hriT6Z-1">
           <mxGeometry x="120" y="190" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="G60ft7nvMkQyt995yqJ7-3" value="定位管理系统" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="nqBmzSLR70mb59hriT6Z-1">
+          <mxGeometry x="-20" y="50" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
