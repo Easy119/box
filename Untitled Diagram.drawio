@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-07T13:06:01.981Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="QvvotBxLhLbVYEj1hDcq" version="14.8.3" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2021-07-07T13:07:42.613Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="EAJtZ3rejSOUnTSX9RkV" version="14.8.3" type="github" pages="9">
   <diagram id="xWEN-G0R6DLI8uqwgf3J" name="整体模块">
     <mxGraphModel dx="1422" dy="762" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1036,6 +1036,9 @@
         <mxCell id="yOfZx4x5FCmLUkYhAxDK-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="O3X1ixkUfucv4UY9UKSm-1" source="yOfZx4x5FCmLUkYhAxDK-7" target="yOfZx4x5FCmLUkYhAxDK-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="AGx900p9Xm3potJnI67j-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=#FF0000;fontColor=#FF0000;" edge="1" parent="O3X1ixkUfucv4UY9UKSm-1" source="yOfZx4x5FCmLUkYhAxDK-7" target="AGx900p9Xm3potJnI67j-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="yOfZx4x5FCmLUkYhAxDK-7" value="罗列设备状态" style="whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="O3X1ixkUfucv4UY9UKSm-1">
           <mxGeometry x="750" y="280" width="120" height="60" as="geometry" />
         </mxCell>
@@ -1053,6 +1056,15 @@
         </mxCell>
         <mxCell id="MMrRdFxyvgfDhPepxrQl-2" value="&lt;font color=&quot;#ff0000&quot; size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 19px&quot;&gt;可使用状态，需要考虑设备的零部件预警详情&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="O3X1ixkUfucv4UY9UKSm-1">
           <mxGeometry x="820" y="40" width="400" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="AGx900p9Xm3potJnI67j-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=#FF0000;fontColor=#FF0000;" edge="1" parent="O3X1ixkUfucv4UY9UKSm-1" source="AGx900p9Xm3potJnI67j-0" target="AGx900p9Xm3potJnI67j-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AGx900p9Xm3potJnI67j-0" value="选择合适的主端设备" style="whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="O3X1ixkUfucv4UY9UKSm-1">
+          <mxGeometry x="750" y="384" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AGx900p9Xm3potJnI67j-2" value="gps线路规划" style="whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="O3X1ixkUfucv4UY9UKSm-1">
+          <mxGeometry x="750" y="524" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
