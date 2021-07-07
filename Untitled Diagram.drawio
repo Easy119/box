@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-07T13:03:16.685Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="dFzfYpyPS_zsS7A-dEnX" version="14.8.3" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2021-07-07T13:06:01.981Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="QvvotBxLhLbVYEj1hDcq" version="14.8.3" type="github" pages="9">
   <diagram id="xWEN-G0R6DLI8uqwgf3J" name="整体模块">
     <mxGraphModel dx="1422" dy="762" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -957,6 +957,18 @@
         <mxCell id="awvkoEuLOmmcPfIBh7HK-0" value="手术结束/更新机器人状态信息" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="nqBmzSLR70mb59hriT6Z-1">
           <mxGeometry x="740" y="40" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="sWsBVLibFd7NWOMsx6Yq-0" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="nqBmzSLR70mb59hriT6Z-1" target="JP1a27b1MBW06s8FQmlq-0">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="860" y="70" as="sourcePoint" />
+            <mxPoint x="910" y="20" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sWsBVLibFd7NWOMsx6Yq-1" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;fontColor=#FF0000;labelBackgroundColor=#FF0000;labelBorderColor=#FF0000;" edge="1" parent="nqBmzSLR70mb59hriT6Z-1" source="awvkoEuLOmmcPfIBh7HK-0" target="JP1a27b1MBW06s8FQmlq-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="800" y="360" as="sourcePoint" />
+            <mxPoint x="850" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -1033,8 +1045,14 @@
         <mxCell id="yOfZx4x5FCmLUkYhAxDK-9" value="机器人位置距离" style="whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="O3X1ixkUfucv4UY9UKSm-1">
           <mxGeometry x="750" y="140" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yOfZx4x5FCmLUkYhAxDK-11" value="机器人工作状态/预计结束时间" style="whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="O3X1ixkUfucv4UY9UKSm-1">
+        <mxCell id="MMrRdFxyvgfDhPepxrQl-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="O3X1ixkUfucv4UY9UKSm-1" source="yOfZx4x5FCmLUkYhAxDK-11" target="MMrRdFxyvgfDhPepxrQl-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yOfZx4x5FCmLUkYhAxDK-11" value="机器人工作状态/预计结束时间/可使用状态" style="whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="O3X1ixkUfucv4UY9UKSm-1">
           <mxGeometry x="950" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MMrRdFxyvgfDhPepxrQl-2" value="&lt;font color=&quot;#ff0000&quot; size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 19px&quot;&gt;可使用状态，需要考虑设备的零部件预警详情&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="O3X1ixkUfucv4UY9UKSm-1">
+          <mxGeometry x="820" y="40" width="400" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
