@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-07T13:01:56.769Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="aw56rJqPPLE-Pj_20qr8" version="14.8.3" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2021-07-07T13:02:22.684Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="ChUi4wZm9mVuo5xuntR_" version="14.8.3" type="github" pages="9">
   <diagram id="xWEN-G0R6DLI8uqwgf3J" name="整体模块">
     <mxGraphModel dx="1422" dy="762" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -886,6 +886,9 @@
         <mxCell id="JP1a27b1MBW06s8FQmlq-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="nqBmzSLR70mb59hriT6Z-1" source="nqBmzSLR70mb59hriT6Z-9" target="JP1a27b1MBW06s8FQmlq-0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="awvkoEuLOmmcPfIBh7HK-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="nqBmzSLR70mb59hriT6Z-1" source="nqBmzSLR70mb59hriT6Z-9" target="awvkoEuLOmmcPfIBh7HK-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="nqBmzSLR70mb59hriT6Z-9" value="机器人时间安排" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="nqBmzSLR70mb59hriT6Z-1">
           <mxGeometry x="670" y="190" width="120" height="60" as="geometry" />
         </mxCell>
@@ -944,6 +947,9 @@
         </mxCell>
         <mxCell id="G60ft7nvMkQyt995yqJ7-3" value="定位管理系统" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="nqBmzSLR70mb59hriT6Z-1">
           <mxGeometry x="-20" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="awvkoEuLOmmcPfIBh7HK-0" value="手术结束/更新机器人状态信息" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="nqBmzSLR70mb59hriT6Z-1">
+          <mxGeometry x="740" y="40" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
