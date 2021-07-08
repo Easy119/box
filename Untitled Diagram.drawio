@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-08T08:53:04.689Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="Yv7XPItGhiggyw3OkLjJ" version="14.8.4" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2021-07-08T08:54:29.664Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="Tms13sRYg_QjSyYlEZv9" version="14.8.4" type="github" pages="12">
   <diagram id="xWEN-G0R6DLI8uqwgf3J" name="整体模块">
     <mxGraphModel dx="1422" dy="762" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1222,7 +1222,7 @@
         <mxCell id="2mrOv2lHB_5WKZT1RUkt-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="2mrOv2lHB_5WKZT1RUkt-1" source="2mrOv2lHB_5WKZT1RUkt-3" target="2mrOv2lHB_5WKZT1RUkt-4">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="105" y="540" />
+              <mxPoint x="105" y="680" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1233,22 +1233,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2mrOv2lHB_5WKZT1RUkt-4" value="送单业务" style="whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="2mrOv2lHB_5WKZT1RUkt-1">
-          <mxGeometry x="240" y="510" width="120" height="60" as="geometry" />
+          <mxGeometry x="200" y="650" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2mrOv2lHB_5WKZT1RUkt-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="2mrOv2lHB_5WKZT1RUkt-1" source="2mrOv2lHB_5WKZT1RUkt-6" target="2mrOv2lHB_5WKZT1RUkt-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2mrOv2lHB_5WKZT1RUkt-6" value="正常模式" style="whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="2mrOv2lHB_5WKZT1RUkt-1">
-          <mxGeometry x="240" y="200" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="2mrOv2lHB_5WKZT1RUkt-8" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="2mrOv2lHB_5WKZT1RUkt-1" target="2mrOv2lHB_5WKZT1RUkt-6">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="120" y="320" as="sourcePoint" />
-            <mxPoint x="120" y="230" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="120" y="230" />
-            </Array>
-          </mxGeometry>
+          <mxGeometry x="560" y="400" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2mrOv2lHB_5WKZT1RUkt-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="2mrOv2lHB_5WKZT1RUkt-1" source="2mrOv2lHB_5WKZT1RUkt-10" target="2mrOv2lHB_5WKZT1RUkt-13">
           <mxGeometry relative="1" as="geometry" />
@@ -1269,7 +1260,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2mrOv2lHB_5WKZT1RUkt-19" value="收件人确认信息" style="whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="2mrOv2lHB_5WKZT1RUkt-1">
-          <mxGeometry x="240" y="360" width="120" height="60" as="geometry" />
+          <mxGeometry x="440" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2mrOv2lHB_5WKZT1RUkt-22" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="2mrOv2lHB_5WKZT1RUkt-1" target="2mrOv2lHB_5WKZT1RUkt-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="350" as="sourcePoint" />
+            <mxPoint x="170" y="300" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
