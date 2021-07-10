@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-10T11:27:04.293Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="tiogcNOeWzecpCCKbiQK" version="14.8.4" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2021-07-10T11:28:13.087Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="Y4Tv2TkUUtvB6VAIuFXK" version="14.8.4" type="github" pages="13">
   <diagram id="xWEN-G0R6DLI8uqwgf3J" name="整体模块">
     <mxGraphModel dx="1422" dy="762" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2056,11 +2056,11 @@
         <mxCell id="XsrijwhAHL2slG-at6MN-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="CocgN5hyD1gvGVa648pi-1" source="XsrijwhAHL2slG-at6MN-30" target="XsrijwhAHL2slG-at6MN-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XsrijwhAHL2slG-at6MN-30" value="主端医生认证" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="CocgN5hyD1gvGVa648pi-1">
+        <mxCell id="XsrijwhAHL2slG-at6MN-30" value="从端医生认证" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="CocgN5hyD1gvGVa648pi-1">
           <mxGeometry x="690" y="342" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XsrijwhAHL2slG-at6MN-33" value="" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;verticalAlign=middle;labelBackgroundColor=none;fillColor=none;dashed=1;strokeColor=#0000FF;strokeWidth=2;" vertex="1" parent="CocgN5hyD1gvGVa648pi-1">
-          <mxGeometry x="419" y="309" width="428" height="126" as="geometry" />
+          <mxGeometry x="410" y="311" width="428" height="126" as="geometry" />
         </mxCell>
         <mxCell id="XsrijwhAHL2slG-at6MN-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;strokeColor=#0000FF;" edge="1" parent="CocgN5hyD1gvGVa648pi-1" source="XsrijwhAHL2slG-at6MN-34" target="XsrijwhAHL2slG-at6MN-33">
           <mxGeometry relative="1" as="geometry" />
