@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-10T12:20:51.260Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="ROrDn5CawBTdn2fNqV_5" version="14.8.4" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2021-07-10T12:22:03.383Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="IJsRKqBtjfaWnOl4lrqL" version="14.8.4" type="github" pages="13">
   <diagram id="xWEN-G0R6DLI8uqwgf3J" name="整体模块">
     <mxGraphModel dx="1422" dy="762" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1743,6 +1743,24 @@
         </mxCell>
         <mxCell id="PyMpeo92vq352wgghuiN-51" value="刷卡登录" style="whiteSpace=wrap;html=1;rounded=0;strokeColor=#FF0000;strokeWidth=1;labelBackgroundColor=#ffffff;" vertex="1" parent="pgLoLuuz_oRj4nD2l5ih-1">
           <mxGeometry x="-48" y="4109" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PyMpeo92vq352wgghuiN-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;strokeColor=#000000;" edge="1" parent="pgLoLuuz_oRj4nD2l5ih-1" source="PyMpeo92vq352wgghuiN-55" target="PyMpeo92vq352wgghuiN-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PyMpeo92vq352wgghuiN-55" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;labelBackgroundColor=#ffffff;strokeWidth=1;verticalAlign=middle;" vertex="1" parent="pgLoLuuz_oRj4nD2l5ih-1">
+          <mxGeometry x="185" y="4185.5" width="39" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="PyMpeo92vq352wgghuiN-58" value="认证管理系统" style="whiteSpace=wrap;html=1;strokeWidth=1;labelBackgroundColor=#ffffff;" vertex="1" parent="pgLoLuuz_oRj4nD2l5ih-1">
+          <mxGeometry x="221" y="4053" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PyMpeo92vq352wgghuiN-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;strokeColor=#000000;" edge="1" parent="pgLoLuuz_oRj4nD2l5ih-1" source="PyMpeo92vq352wgghuiN-60" target="PyMpeo92vq352wgghuiN-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PyMpeo92vq352wgghuiN-60" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;labelBackgroundColor=#ffffff;strokeWidth=1;verticalAlign=middle;" vertex="1" parent="pgLoLuuz_oRj4nD2l5ih-1">
+          <mxGeometry x="252" y="4205" width="39" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="PyMpeo92vq352wgghuiN-62" value="匹配管理系统" style="whiteSpace=wrap;html=1;strokeWidth=1;labelBackgroundColor=#ffffff;" vertex="1" parent="pgLoLuuz_oRj4nD2l5ih-1">
+          <mxGeometry x="502" y="4373" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
