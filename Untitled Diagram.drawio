@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-10T08:02:15.156Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="_qWEpZMO0NW92wrk1lbU" version="14.8.4" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2021-07-10T08:24:45.395Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="9l5K-AI2UgkFXD3WbB_K" version="14.8.4" type="github" pages="13">
   <diagram id="xWEN-G0R6DLI8uqwgf3J" name="整体模块">
     <mxGraphModel dx="1422" dy="762" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -948,7 +948,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="NT3m39qZ7rYPSxp9Oo1K" name="手术管理系统">
-    <mxGraphModel dx="1422" dy="1589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="1162" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="pgLoLuuz_oRj4nD2l5ih-0" />
         <mxCell id="pgLoLuuz_oRj4nD2l5ih-1" parent="pgLoLuuz_oRj4nD2l5ih-0" />
@@ -1053,6 +1053,21 @@
         </mxCell>
         <mxCell id="gA0GCjheHmrb948fssb7-0" value="医生信息/设备信息/手术预计时长" style="whiteSpace=wrap;html=1;verticalAlign=middle;" parent="pgLoLuuz_oRj4nD2l5ih-1" vertex="1">
           <mxGeometry x="990" y="-60" width="230" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="YdFf0B53EppEhSAvC_kK-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;strokeColor=#000000;" edge="1" parent="pgLoLuuz_oRj4nD2l5ih-1" source="YdFf0B53EppEhSAvC_kK-0" target="YdFf0B53EppEhSAvC_kK-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YdFf0B53EppEhSAvC_kK-0" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;labelBackgroundColor=none;fontColor=#000000;strokeColor=#000000;strokeWidth=1;fillColor=none;" vertex="1" parent="pgLoLuuz_oRj4nD2l5ih-1">
+          <mxGeometry x="155" y="628" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YdFf0B53EppEhSAvC_kK-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;strokeColor=#000000;" edge="1" parent="pgLoLuuz_oRj4nD2l5ih-1" source="YdFf0B53EppEhSAvC_kK-1" target="YdFf0B53EppEhSAvC_kK-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YdFf0B53EppEhSAvC_kK-1" value="登录手术管理模块" style="whiteSpace=wrap;html=1;verticalAlign=middle;strokeWidth=1;fillColor=none;" vertex="1" parent="pgLoLuuz_oRj4nD2l5ih-1">
+          <mxGeometry x="265" y="628" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YdFf0B53EppEhSAvC_kK-3" value="机器人管理系统" style="whiteSpace=wrap;html=1;verticalAlign=middle;strokeWidth=1;fillColor=none;" vertex="1" parent="pgLoLuuz_oRj4nD2l5ih-1">
+          <mxGeometry x="465" y="628" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
