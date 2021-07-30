@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-30T08:02:49.181Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="kmbcCmeKQoBnt07crez7" version="14.9.0" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2021-07-30T08:02:58.293Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="bsYJNqzsKj3_so30tH5k" version="14.9.0" type="github" pages="14">
   <diagram id="xWEN-G0R6DLI8uqwgf3J" name="整体模块">
     <mxGraphModel dx="1422" dy="762" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2906,7 +2906,7 @@
           <mxGeometry x="440" y="630" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vnQiqpZbATKmooeAsTBR-44" value="视频信号2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="vnQiqpZbATKmooeAsTBR-1">
-          <mxGeometry x="530" y="630" width="70" height="40" as="geometry" />
+          <mxGeometry x="530" y="630" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
