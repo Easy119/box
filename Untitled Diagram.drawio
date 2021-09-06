@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-06T11:36:38.176Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="w6LTwnFI0smB1pj8xmUR" version="14.9.8" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2021-09-06T11:37:15.621Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="dDEL6-6aGBJyfhy31Jgt" version="14.9.8" type="github" pages="14">
   <diagram id="xWEN-G0R6DLI8uqwgf3J" name="整体模块">
     <mxGraphModel dx="1422" dy="762" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2564,7 +2564,7 @@
           <mxGeometry x="182" y="1459" width="408" height="175" as="geometry" />
         </mxCell>
         <mxCell id="EygJxIR6-ZawA5FKuIAw-10" value="手术信息管理模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="wQfv3tDrTs6pfTZ5_D5d-1">
-          <mxGeometry x="350" y="1344" width="120" height="60" as="geometry" />
+          <mxGeometry x="220" y="1710" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EygJxIR6-ZawA5FKuIAw-11" value="医生信息管理模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="wQfv3tDrTs6pfTZ5_D5d-1">
           <mxGeometry x="210" y="1344" width="120" height="60" as="geometry" />
@@ -2591,10 +2591,13 @@
           <mxGeometry x="630" y="190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EygJxIR6-ZawA5FKuIAw-23" value="定位管理模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="wQfv3tDrTs6pfTZ5_D5d-1">
-          <mxGeometry x="210" y="1660" width="120" height="60" as="geometry" />
+          <mxGeometry x="210" y="1640" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EygJxIR6-ZawA5FKuIAw-24" value="定位管理模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="wQfv3tDrTs6pfTZ5_D5d-1">
           <mxGeometry x="370" y="1560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EygJxIR6-ZawA5FKuIAw-25" value="医生信息管理模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="wQfv3tDrTs6pfTZ5_D5d-1">
+          <mxGeometry x="360" y="1640" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
