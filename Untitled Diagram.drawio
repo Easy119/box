@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-17T03:48:40.633Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="C8mkUVxDdKzsWKaEpxny" version="15.2.7" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2021-10-22T03:10:00.939Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="CAmlPYNOqTSWb5_rMvYZ" version="15.5.1" type="github" pages="15">
   <diagram id="xWEN-G0R6DLI8uqwgf3J" name="整体模块">
     <mxGraphModel dx="1422" dy="762" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3127,6 +3127,50 @@
         </mxCell>
         <mxCell id="lBnVp4Lyc2Zt8uv5LIPn-11" value="表关联手机号" style="whiteSpace=wrap;html=1;rounded=0;" parent="vnQiqpZbATKmooeAsTBR-1" vertex="1">
           <mxGeometry x="-760" y="353" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="y3pN23XC6oHJ1OXY1pDY" name="权限管理系统">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="jLUCp4WvfNVAcV3nqZMV-0" />
+        <mxCell id="jLUCp4WvfNVAcV3nqZMV-1" parent="jLUCp4WvfNVAcV3nqZMV-0" />
+        <mxCell id="FYhIAA3JZWqjFGxkI7GF-0" value="门户账户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="jLUCp4WvfNVAcV3nqZMV-1">
+          <mxGeometry x="70" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FYhIAA3JZWqjFGxkI7GF-1" value="管理员账号" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="jLUCp4WvfNVAcV3nqZMV-1">
+          <mxGeometry x="70" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FYhIAA3JZWqjFGxkI7GF-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="jLUCp4WvfNVAcV3nqZMV-1" source="FYhIAA3JZWqjFGxkI7GF-2" target="FYhIAA3JZWqjFGxkI7GF-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FYhIAA3JZWqjFGxkI7GF-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="jLUCp4WvfNVAcV3nqZMV-1" source="FYhIAA3JZWqjFGxkI7GF-2" target="FYhIAA3JZWqjFGxkI7GF-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FYhIAA3JZWqjFGxkI7GF-2" value="鸿鹄" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="jLUCp4WvfNVAcV3nqZMV-1">
+          <mxGeometry x="240" y="10" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FYhIAA3JZWqjFGxkI7GF-4" value="&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0.85) ; font-size: 14px ; background-color: rgb(255 , 255 , 255)&quot;&gt;图迈 Toumai&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="jLUCp4WvfNVAcV3nqZMV-1">
+          <mxGeometry x="240" y="130" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FYhIAA3JZWqjFGxkI7GF-6" value="&lt;div class=&quot;ant-tree-treenode ant-tree-treenode-switcher-close&quot; style=&quot;box-sizing: border-box ; display: flex ; align-items: flex-start ; padding: 0px 0px 4px ; outline: none ; color: rgba(0 , 0 , 0 , 0.85) ; font-size: 14px ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;span title=&quot;蜻蜓眼&quot; class=&quot;ant-tree-node-content-wrapper ant-tree-node-content-wrapper-normal&quot; style=&quot;box-sizing: border-box ; position: relative ; z-index: auto ; min-height: 24px ; margin: 0px ; padding: 0px 4px ; color: inherit ; line-height: 24px ; background: transparent ; border-radius: 2px ; cursor: pointer ; transition: all 0.3s ease 0s , all 0s ease 0s , all 0s ease 0s , all 0s ease 0s&quot;&gt;&lt;span class=&quot;ant-tree-title&quot; style=&quot;box-sizing: border-box&quot;&gt;蜻蜓眼&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div class=&quot;ant-tree-treenode ant-tree-treenode-switcher-close&quot; style=&quot;box-sizing: border-box ; display: flex ; align-items: flex-start ; padding: 0px 0px 4px ; outline: none ; color: rgba(0 , 0 , 0 , 0.85) ; font-size: 14px ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;span class=&quot;ant-tree-indent&quot; style=&quot;box-sizing: border-box&quot;&gt;&lt;/span&gt;&lt;span class=&quot;ant-tree-switcher ant-tree-switcher-noop&quot; style=&quot;box-sizing: border-box ; position: relative ; width: 24px ; margin: 0px ; line-height: 24px ; cursor: default&quot;&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="jLUCp4WvfNVAcV3nqZMV-1">
+          <mxGeometry x="240" y="190" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FYhIAA3JZWqjFGxkI7GF-7" value="&lt;div class=&quot;ant-tree-treenode ant-tree-treenode-switcher-close&quot; style=&quot;box-sizing: border-box ; display: flex ; align-items: flex-start ; padding: 0px 0px 4px ; outline: none ; color: rgba(0 , 0 , 0 , 0.85) ; font-size: 14px ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;span title=&quot;蜻蜓眼&quot; class=&quot;ant-tree-node-content-wrapper ant-tree-node-content-wrapper-normal&quot; style=&quot;box-sizing: border-box ; position: relative ; z-index: auto ; min-height: 24px ; margin: 0px ; padding: 0px 4px ; color: inherit ; line-height: 24px ; background: transparent ; border-radius: 2px ; cursor: pointer ; transition: all 0.3s ease 0s , all 0s ease 0s , all 0s ease 0s , all 0s ease 0s&quot;&gt;&lt;div class=&quot;ant-tree-treenode ant-tree-treenode-switcher-close&quot; style=&quot;box-sizing: border-box ; display: flex ; align-items: flex-start ; padding: 0px 0px 4px ; outline: none&quot;&gt;&lt;span title=&quot;ANT经皮穿刺&quot; class=&quot;ant-tree-node-content-wrapper ant-tree-node-content-wrapper-normal&quot; style=&quot;box-sizing: border-box ; position: relative ; z-index: auto ; min-height: 24px ; margin: 0px ; padding: 0px 4px ; color: inherit ; line-height: 24px ; background: transparent ; border-radius: 2px ; cursor: pointer ; transition: all 0.3s ease 0s , all 0s ease 0s , all 0s ease 0s , all 0s ease 0s&quot;&gt;&lt;span class=&quot;ant-tree-title&quot; style=&quot;box-sizing: border-box&quot;&gt;ANT经皮穿刺&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="jLUCp4WvfNVAcV3nqZMV-1">
+          <mxGeometry x="240" y="250" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FYhIAA3JZWqjFGxkI7GF-8" value="&lt;div class=&quot;ant-tree-treenode ant-tree-treenode-switcher-close&quot; style=&quot;box-sizing: border-box ; display: flex ; align-items: flex-start ; padding: 0px 0px 4px ; outline: none ; color: rgba(0 , 0 , 0 , 0.85) ; font-size: 14px ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;span title=&quot;蜻蜓眼&quot; class=&quot;ant-tree-node-content-wrapper ant-tree-node-content-wrapper-normal&quot; style=&quot;box-sizing: border-box ; position: relative ; z-index: auto ; min-height: 24px ; margin: 0px ; padding: 0px 4px ; color: inherit ; line-height: 24px ; background: transparent ; border-radius: 2px ; cursor: pointer ; transition: all 0.3s ease 0s , all 0s ease 0s , all 0s ease 0s , all 0s ease 0s&quot;&gt;&lt;div class=&quot;ant-tree-treenode ant-tree-treenode-switcher-close&quot; style=&quot;box-sizing: border-box ; display: flex ; align-items: flex-start ; padding: 0px 0px 4px ; outline: none&quot;&gt;&lt;span title=&quot;ANT经皮穿刺&quot; class=&quot;ant-tree-node-content-wrapper ant-tree-node-content-wrapper-normal&quot; style=&quot;box-sizing: border-box ; position: relative ; z-index: auto ; min-height: 24px ; margin: 0px ; padding: 0px 4px ; color: inherit ; line-height: 24px ; background: transparent ; border-radius: 2px ; cursor: pointer ; transition: all 0.3s ease 0s , all 0s ease 0s , all 0s ease 0s , all 0s ease 0s&quot;&gt;支气管机器人&lt;br&gt;&lt;/span&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=right;" vertex="1" parent="jLUCp4WvfNVAcV3nqZMV-1">
+          <mxGeometry x="240" y="310" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FYhIAA3JZWqjFGxkI7GF-14" value="审核人员" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="jLUCp4WvfNVAcV3nqZMV-1">
+          <mxGeometry x="430" y="10" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FYhIAA3JZWqjFGxkI7GF-17" value="" style="rounded=0;whiteSpace=wrap;html=1;align=right;dashed=1;fillColor=none;" vertex="1" parent="jLUCp4WvfNVAcV3nqZMV-1">
+          <mxGeometry x="740" y="50" width="200" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="FYhIAA3JZWqjFGxkI7GF-25" value="运营人员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="jLUCp4WvfNVAcV3nqZMV-1">
+          <mxGeometry x="430" y="80" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
