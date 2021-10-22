@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-22T03:10:00.939Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="CAmlPYNOqTSWb5_rMvYZ" version="15.5.1" type="github" pages="15">
+<mxfile host="app.diagrams.net" modified="2021-10-22T03:34:14.022Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="65UNEibrJp7rnu2tn-4z" version="15.5.1" type="github" pages="15">
   <diagram id="xWEN-G0R6DLI8uqwgf3J" name="整体模块">
     <mxGraphModel dx="1422" dy="762" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3132,7 +3132,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="y3pN23XC6oHJ1OXY1pDY" name="权限管理系统">
-    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="1589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="jLUCp4WvfNVAcV3nqZMV-0" />
         <mxCell id="jLUCp4WvfNVAcV3nqZMV-1" parent="jLUCp4WvfNVAcV3nqZMV-0" />
@@ -3140,16 +3140,13 @@
           <mxGeometry x="70" y="190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FYhIAA3JZWqjFGxkI7GF-1" value="管理员账号" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="jLUCp4WvfNVAcV3nqZMV-1">
-          <mxGeometry x="70" y="420" width="120" height="60" as="geometry" />
+          <mxGeometry x="70" y="470" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FYhIAA3JZWqjFGxkI7GF-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="jLUCp4WvfNVAcV3nqZMV-1" source="FYhIAA3JZWqjFGxkI7GF-2" target="FYhIAA3JZWqjFGxkI7GF-14">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="FYhIAA3JZWqjFGxkI7GF-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="jLUCp4WvfNVAcV3nqZMV-1" source="FYhIAA3JZWqjFGxkI7GF-2" target="FYhIAA3JZWqjFGxkI7GF-25">
+        <mxCell id="FYhIAA3JZWqjFGxkI7GF-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="jLUCp4WvfNVAcV3nqZMV-1" source="FYhIAA3JZWqjFGxkI7GF-2" target="FYhIAA3JZWqjFGxkI7GF-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FYhIAA3JZWqjFGxkI7GF-2" value="鸿鹄" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="jLUCp4WvfNVAcV3nqZMV-1">
-          <mxGeometry x="240" y="10" width="120" height="40" as="geometry" />
+          <mxGeometry x="240" y="17.5" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FYhIAA3JZWqjFGxkI7GF-4" value="&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0.85) ; font-size: 14px ; background-color: rgb(255 , 255 , 255)&quot;&gt;图迈 Toumai&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="jLUCp4WvfNVAcV3nqZMV-1">
           <mxGeometry x="240" y="130" width="120" height="40" as="geometry" />
@@ -3163,14 +3160,23 @@
         <mxCell id="FYhIAA3JZWqjFGxkI7GF-8" value="&lt;div class=&quot;ant-tree-treenode ant-tree-treenode-switcher-close&quot; style=&quot;box-sizing: border-box ; display: flex ; align-items: flex-start ; padding: 0px 0px 4px ; outline: none ; color: rgba(0 , 0 , 0 , 0.85) ; font-size: 14px ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;span title=&quot;蜻蜓眼&quot; class=&quot;ant-tree-node-content-wrapper ant-tree-node-content-wrapper-normal&quot; style=&quot;box-sizing: border-box ; position: relative ; z-index: auto ; min-height: 24px ; margin: 0px ; padding: 0px 4px ; color: inherit ; line-height: 24px ; background: transparent ; border-radius: 2px ; cursor: pointer ; transition: all 0.3s ease 0s , all 0s ease 0s , all 0s ease 0s , all 0s ease 0s&quot;&gt;&lt;div class=&quot;ant-tree-treenode ant-tree-treenode-switcher-close&quot; style=&quot;box-sizing: border-box ; display: flex ; align-items: flex-start ; padding: 0px 0px 4px ; outline: none&quot;&gt;&lt;span title=&quot;ANT经皮穿刺&quot; class=&quot;ant-tree-node-content-wrapper ant-tree-node-content-wrapper-normal&quot; style=&quot;box-sizing: border-box ; position: relative ; z-index: auto ; min-height: 24px ; margin: 0px ; padding: 0px 4px ; color: inherit ; line-height: 24px ; background: transparent ; border-radius: 2px ; cursor: pointer ; transition: all 0.3s ease 0s , all 0s ease 0s , all 0s ease 0s , all 0s ease 0s&quot;&gt;支气管机器人&lt;br&gt;&lt;/span&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=right;" vertex="1" parent="jLUCp4WvfNVAcV3nqZMV-1">
           <mxGeometry x="240" y="310" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="FYhIAA3JZWqjFGxkI7GF-14" value="审核人员" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="jLUCp4WvfNVAcV3nqZMV-1">
-          <mxGeometry x="430" y="10" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="FYhIAA3JZWqjFGxkI7GF-17" value="" style="rounded=0;whiteSpace=wrap;html=1;align=right;dashed=1;fillColor=none;" vertex="1" parent="jLUCp4WvfNVAcV3nqZMV-1">
-          <mxGeometry x="740" y="50" width="200" height="230" as="geometry" />
+        <mxCell id="FYhIAA3JZWqjFGxkI7GF-17" value="" style="rounded=0;whiteSpace=wrap;html=1;align=right;dashed=1;fillColor=none;strokeColor=#0000FF;" vertex="1" parent="jLUCp4WvfNVAcV3nqZMV-1">
+          <mxGeometry x="420" y="-55" width="200" height="185" as="geometry" />
         </mxCell>
         <mxCell id="FYhIAA3JZWqjFGxkI7GF-25" value="运营人员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="jLUCp4WvfNVAcV3nqZMV-1">
-          <mxGeometry x="430" y="80" width="120" height="40" as="geometry" />
+          <mxGeometry x="460" y="57.5" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FYhIAA3JZWqjFGxkI7GF-28" value="审核人员" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="jLUCp4WvfNVAcV3nqZMV-1">
+          <mxGeometry x="460" y="-12.5" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FYhIAA3JZWqjFGxkI7GF-30" value="&lt;font color=&quot;#ff0000&quot;&gt;&lt;b&gt;菜单隔离&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="jLUCp4WvfNVAcV3nqZMV-1">
+          <mxGeometry x="490" y="-90" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FYhIAA3JZWqjFGxkI7GF-31" value="" style="rounded=0;whiteSpace=wrap;html=1;align=right;dashed=1;fillColor=none;strokeColor=#0000FF;" vertex="1" parent="jLUCp4WvfNVAcV3nqZMV-1">
+          <mxGeometry x="200" y="-40" width="200" height="420" as="geometry" />
+        </mxCell>
+        <mxCell id="FYhIAA3JZWqjFGxkI7GF-32" value="&lt;font color=&quot;#ff0000&quot;&gt;&lt;b&gt;数据隔离&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="jLUCp4WvfNVAcV3nqZMV-1">
+          <mxGeometry x="260" y="-85" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
