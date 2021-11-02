@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-02T07:03:36.229Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="SOEH8n7OpuOSqlP2w2XC" version="15.5.8" type="github" pages="16">
+<mxfile host="app.diagrams.net" modified="2021-11-02T07:06:44.070Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="pl7r76LfztgxFCltJbmE" version="15.5.8" type="github" pages="16">
   <diagram id="xWEN-G0R6DLI8uqwgf3J" name="整体模块">
     <mxGraphModel dx="1422" dy="762" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3198,7 +3198,7 @@
         <mxCell id="xHlu8qtAmDqwUCqoM65U-5" value="请选择预估结束时间" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="xHlu8qtAmDqwUCqoM65U-1">
           <mxGeometry x="470" y="80" width="160" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="xHlu8qtAmDqwUCqoM65U-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="xHlu8qtAmDqwUCqoM65U-1">
+        <mxCell id="xHlu8qtAmDqwUCqoM65U-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;sketch=0;" vertex="1" parent="xHlu8qtAmDqwUCqoM65U-1">
           <mxGeometry x="30" y="30" width="1040" height="730" as="geometry" />
         </mxCell>
         <mxCell id="xHlu8qtAmDqwUCqoM65U-10" value="主端设备" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="xHlu8qtAmDqwUCqoM65U-1">
@@ -3261,11 +3261,23 @@
         <mxCell id="xHlu8qtAmDqwUCqoM65U-30" value="图迈腔镜手术机器人" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="xHlu8qtAmDqwUCqoM65U-1">
           <mxGeometry x="60" y="310" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xHlu8qtAmDqwUCqoM65U-32" value="已占用" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="xHlu8qtAmDqwUCqoM65U-1">
+        <mxCell id="xHlu8qtAmDqwUCqoM65U-32" value="已占用" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="xHlu8qtAmDqwUCqoM65U-1">
           <mxGeometry x="200" y="310" width="300" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xHlu8qtAmDqwUCqoM65U-33" value="可使用" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="xHlu8qtAmDqwUCqoM65U-1">
-          <mxGeometry x="550" y="310" width="300" height="30" as="geometry" />
+        <mxCell id="xHlu8qtAmDqwUCqoM65U-34" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="xHlu8qtAmDqwUCqoM65U-1">
+          <mxGeometry x="50" y="350" width="960" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xHlu8qtAmDqwUCqoM65U-33" value="可使用" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;shadow=0;sketch=1;glass=0;" vertex="1" parent="xHlu8qtAmDqwUCqoM65U-1">
+          <mxGeometry x="540" y="360" width="300" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xHlu8qtAmDqwUCqoM65U-35" value="图迈腔镜手术机器人" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="xHlu8qtAmDqwUCqoM65U-1">
+          <mxGeometry x="60" y="360" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xHlu8qtAmDqwUCqoM65U-36" value="已占用" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="xHlu8qtAmDqwUCqoM65U-1">
+          <mxGeometry x="310" y="360" width="300" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xHlu8qtAmDqwUCqoM65U-39" value="时间不合适" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="xHlu8qtAmDqwUCqoM65U-1">
+          <mxGeometry x="540" y="360" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
