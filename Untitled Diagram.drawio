@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-02T07:14:25.606Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="bFpkAvAQtzT7c1kOgn2b" version="15.5.8" type="github" pages="16">
+<mxfile host="app.diagrams.net" modified="2021-11-02T08:22:33.284Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="9vzku6AAmxTkTIjKy6gV" version="15.5.8" type="github" pages="16">
   <diagram id="xWEN-G0R6DLI8uqwgf3J" name="整体模块">
     <mxGraphModel dx="1422" dy="762" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3185,7 +3185,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="EZyB8TmkbO0n6y3zlncH" name="Page-16">
-    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1874" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="xHlu8qtAmDqwUCqoM65U-0" />
         <mxCell id="xHlu8qtAmDqwUCqoM65U-1" parent="xHlu8qtAmDqwUCqoM65U-0" />
@@ -3346,7 +3346,7 @@
           <mxGeometry x="540" y="645" width="300" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xHlu8qtAmDqwUCqoM65U-79" value="图迈腔镜机器人主端B" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="xHlu8qtAmDqwUCqoM65U-1">
-          <mxGeometry x="70" y="645" width="120" height="30" as="geometry" />
+          <mxGeometry x="60" y="645" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xHlu8qtAmDqwUCqoM65U-80" value="已占用" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="xHlu8qtAmDqwUCqoM65U-1">
           <mxGeometry x="420" y="645" width="300" height="30" as="geometry" />
